@@ -1,0 +1,24 @@
+{
+  "number": 18,
+  "product_id": "JLZ-EDU-SK-015",
+  "chinese_name": "家长需求诊断",
+  "english_name": "Parent Needs Diagnosis",
+  "repository_name": "edu-parent-needs-diagnosis",
+  "product_type": "Skill",
+  "category": "02 销售转化中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-parent-needs-diagnosis-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "家长陈述、孩子年级学科、学习表现、时间预算、家庭决策角色和已有异议",
+  "main_output": "需求诊断表、购买动机、优先级、未确认信息、匹配课程和风险提示",
+  "package_entries": [
+    "edu-parent-needs-diagnosis/SKILL.md",
+    "edu-parent-needs-diagnosis/references/DOMAIN_GUIDE.md",
+    "edu-parent-needs-diagnosis/references/EXAMPLES.md",
+    "edu-parent-needs-diagnosis/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
